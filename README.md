@@ -1,9 +1,9 @@
 <b>CodeChef.com</b>
-
+<hr>
 Solutions of CodeChef
 
 Follow me on insta naggarwal_
 
 Follow me on GitHub n-aggarwal
 
-LAST UPDATED:- 18-10-2017(17:47 IST)
+LAST UPDATED:- 30-03-2018(18:34 IST)
