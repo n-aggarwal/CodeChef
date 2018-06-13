@@ -2,9 +2,9 @@
 
 Solutions of CodeChef
 
-Answer to all <b>160</b> out of <b>160</b> questions uploaded on page <https://www.codechef.com/problems/school>.
+Answer to all <b>161</b> out of <b>161</b> questions uploaded on page <https://www.codechef.com/problems/school>.
 
-Last UPDATED ON <b>1-JUNE-2018 1:00 AM(IST)</b>.
+Last UPDATED ON <b>13-JUNE-2018 6:00 PM(IST)</b>.
 
 Follow me on insta naggarwal_
 
